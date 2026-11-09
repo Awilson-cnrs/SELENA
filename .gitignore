@@ -36,6 +36,9 @@ env/
 *.swo
 *~
 
+# Junie agent sessions and settings
+.junie/
+
 # Jupyter
 .ipynb_checkpoints/
 
