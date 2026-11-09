@@ -1,0 +1,19 @@
+name: DeepL_pytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - hyperspy
+  - imageio
+  - scikit-image
+  - pillow
+  - tifffile
+  - opencv
+  - pandas
+  - scipy
+  - jupyter
+  - notebook
+  - ipykernel
