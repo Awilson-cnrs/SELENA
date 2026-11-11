@@ -1,4 +1,4 @@
 {
-    "data_root": "/chemin/vers/vos/donnees/",
-    "mask_path": "binoculars/mask_nxs00057_20261013_22h40.npy"
+    "data_root": "PATH_TO_YOUR_TEM_DATA",
+    "mask_path": "PATH_TO_OPTIONAL_MASK_FILE"
 }
